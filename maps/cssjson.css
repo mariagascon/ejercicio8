@@ -1,0 +1,9 @@
+.titulo1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font:bold 12px;
+    color: yellow;
+}
+
+.fondo {
+    background-color: rgb(71, 167, 95);
+}

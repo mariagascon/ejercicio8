@@ -28,10 +28,7 @@ function viewJSON() {
             "<td>"+response.results[i].geometry.location.lng+"</td>"+
             "<td>"+response.results[i].types+"</td>"+
             "<td><img src=' "+response.results[i].icon+" '></td></tr>";
-        }
-        
-        
-    
+        }   
     });
 }
 
