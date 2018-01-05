@@ -1,8 +1,27 @@
+/* Centra y aplica subrayado al h1 */
+.titulo {
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* Centra y agranda el botón de búsqueda */
+.boton {
+    width: 60%; 
+    height: 50px; 
+    left: 20%; 
+    top: 50px;
+    margin-left: 280px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+/* Aplica un estilo diferente al encabezado */
 .encabezado {
     color: white;
     background-color: black;
 }
 
+/* Centra cada uno de los textos que se encuentran dentro del encabezado */
 .name {
     text-align: center;
 }
@@ -27,6 +46,7 @@
     text-align: center;
 }
 
+/* Aplica un color de fondo y centra el texto de cada una de las celdas */
 .nombre {
     background-color: goldenrod;
     text-align: center;
