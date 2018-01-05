@@ -1,9 +1,58 @@
-.titulo1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font:bold 12px;
-    color: yellow;
+.encabezado {
+    color: white;
+    background-color: black;
 }
 
-.fondo {
-    background-color: rgb(71, 167, 95);
+.name {
+    text-align: center;
+}
+
+.vericity {
+    text-align: center;
+}
+
+.lat {
+    text-align: center;
+}
+
+.long {
+    text-align: center;
+}
+
+.tip {
+    text-align: center;
+}
+
+.icon {
+    text-align: center;
+}
+
+.nombre {
+    background-color: goldenrod;
+    text-align: center;
+}
+
+.direccion {
+    background-color: rgb(218, 85, 32);
+    text-align: center;
+}
+
+.latitud {
+    background-color: rgb(177, 52, 58);
+    text-align: center;
+}
+
+.longitud {
+    background-color: rgb(194, 106, 120);
+    text-align: center;
+}
+
+.tipologia {
+    background-color: rgb(144, 106, 194);
+    text-align: center;
+}
+
+.icono {
+    background-color: rgb(106, 181, 194);
+    text-align: center;
 }
